@@ -1,0 +1,6 @@
+{
+  "name": "prompt-hud",
+  "version": "1.0.1",
+  "description": "One band above the prompt: the context window by category with the compaction threshold, then token counts and 5h/weekly plan limits.",
+  
+}

@@ -1,0 +1,14 @@
+{
+  "name": "prompt-hud",
+  "owner": {
+    "name": "unshDee"
+  },
+  "plugins": [
+    {
+      "name": "prompt-hud",
+      "source": "./prompt-hud",
+      "description": "One band above the prompt: context window by category with the compaction threshold, then token counts and 5h/weekly plan limits."
+    }
+  ],
+  "description": "Local mods for the Claude Code prompt area"
+}
